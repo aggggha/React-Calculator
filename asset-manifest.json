@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kt-internal/static/css/main.658870ab.chunk.css",
+    "main.js": "/kt-internal/static/js/main.8edeffd4.chunk.js",
+    "main.js.map": "/kt-internal/static/js/main.8edeffd4.chunk.js.map",
+    "runtime-main.js": "/kt-internal/static/js/runtime-main.418cb808.js",
+    "runtime-main.js.map": "/kt-internal/static/js/runtime-main.418cb808.js.map",
+    "static/css/2.35bf205b.chunk.css": "/kt-internal/static/css/2.35bf205b.chunk.css",
+    "static/js/2.ebdf457b.chunk.js": "/kt-internal/static/js/2.ebdf457b.chunk.js",
+    "static/js/2.ebdf457b.chunk.js.map": "/kt-internal/static/js/2.ebdf457b.chunk.js.map",
+    "static/js/3.bd1fe3ce.chunk.js": "/kt-internal/static/js/3.bd1fe3ce.chunk.js",
+    "static/js/3.bd1fe3ce.chunk.js.map": "/kt-internal/static/js/3.bd1fe3ce.chunk.js.map",
+    "index.html": "/kt-internal/index.html",
+    "static/css/2.35bf205b.chunk.css.map": "/kt-internal/static/css/2.35bf205b.chunk.css.map",
+    "static/css/main.658870ab.chunk.css.map": "/kt-internal/static/css/main.658870ab.chunk.css.map",
+    "static/js/2.ebdf457b.chunk.js.LICENSE.txt": "/kt-internal/static/js/2.ebdf457b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.418cb808.js",
+    "static/css/2.35bf205b.chunk.css",
+    "static/js/2.ebdf457b.chunk.js",
+    "static/css/main.658870ab.chunk.css",
+    "static/js/main.8edeffd4.chunk.js"
+  ]
+}
